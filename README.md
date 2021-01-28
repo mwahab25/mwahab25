@@ -25,7 +25,7 @@
 ![ASP.NET](https://img.shields.io/badge/%20-ASP.NET-orange)
 ![Web API](https://img.shields.io/badge/-Web%20API-orange)
 - 📈 Using Tracking/CI tools: 
-![TFS](https://img.shields.io/badge/%20-Azure%20DevOps-blue)
+![TFS](https://img.shields.io/badge/%20-TFS-blue)
 ![Jira](https://img.shields.io/badge/%20-Jira-blue)
 ![Git](https://img.shields.io/badge/%20-Git-blue)
 ![Github](https://img.shields.io/badge/%20-Github-blue)

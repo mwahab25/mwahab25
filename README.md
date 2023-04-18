@@ -5,7 +5,7 @@
 ![Test Automation](https://img.shields.io/badge/%20-Test%20Automation-9cf)
 ![DevOps](https://img.shields.io/badge/%20-DevOps-9cf)
 - 💻 Using Languages:
-![C#](https://img.shields.io/badge/%20-c%23-green)
+![C#](https://img.shields.io/badge/%20-C%23.NET-green)
 ![Java](https://img.shields.io/badge/%20-Java-green)
 ![Python](https://img.shields.io/badge/%20-Python-green)
 - 🔬 Using Testing/Automation tools:
@@ -26,7 +26,7 @@
 ![Azure](https://img.shields.io/badge/%20-Azure-blue)
 ![AWS](https://img.shields.io/badge/%20-AWS-blue)
 - ⚡ Using CI/CD tools: 
-![Git](https://img.shields.io/badge/%20-AWS-blue)
+![Git](https://img.shields.io/badge/%20-Git-blue)
 ![Jenkins](https://img.shields.io/badge/%20-Jenkins-blue)
 ![Docker](https://img.shields.io/badge/%20-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/%20-Kubernetes-blue)

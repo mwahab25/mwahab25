@@ -1,8 +1,9 @@
 ### Mohamed Abdelwahab 👋
 - 🔭 Currently working on: 
+![Software Developer](https://img.shields.io/badge/%20-Software%20Developer-9cf)
 ![Test Automation](https://img.shields.io/badge/%20-Test%20Automation-9cf)
-![Software Quality](https://img.shields.io/badge/%20-Software%20Quality-9cf)
-![Software Development in Test](https://img.shields.io/badge/%20-Software%20Development%20in%20Test-9cf)
+![Software QA & Testing](https://img.shields.io/badge/%20-Software%20Quality-9cf)
+![DevOps](https://img.shields.io/badge/%20-Software%20Development%20in%20Test-9cf)
 - 💻 Using Languages:
 ![C#](https://img.shields.io/badge/%20-c%23-green)
 ![Java](https://img.shields.io/badge/%20-Java-green)

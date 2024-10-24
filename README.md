@@ -1,9 +1,9 @@
 ### Mohamed Abdelwahab 👋
 
-- Study: Computer Science - Software Engineering
-- Major Skills: Software Development - Software Testing - Continuous Integration and Delivery
-- Software Development Skills: Full stack Development - Database Management - Cloud Development
-- Software Testing Skills: Software Quality Control - Agile Testing - Technical Testing - Test Automation
+- 📚 Study: Computer Science - Software Engineering
+- 💻 Major Skills: Software Development - Software Testing - Continuous Integration and Delivery
+- 📟 Software Development: Full stack Development - Database Management - Cloud Development
+- 📈 Software Testing: Software Quality Control - Agile Testing - Technical Testing - Test Automation
 
 <!--
 **mwahab25/mwahab25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

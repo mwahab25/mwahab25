@@ -1,4 +1,24 @@
 ### Mohamed Abdelwahab 👋
+
+- Study: Computer Science - Software Engineering
+- Major Skills: Software Development - Software Testing - Continuous Integration and Delivery
+- Software Development Skills: Full stack Development - Database Management - Cloud Development
+- Software Testing Skills: Software Quality Control - Agile Testing - Technical Testing - Test Automation
+
+<!--
+**mwahab25/mwahab25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Study: Computer Science - Software Engineering
+- 🌱 Major Skills: Software Development - Software Testing - Continuous Integration and Delivery
+- 👯 Software Development Skills: Full stack Development - Database Management - Cloud Development
+- 🤔 Software Testing Skills: Software Quality Control - Agile Testing - Technical Testing - Test Automation
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 #### Study:
 ![Computer Science](https://img.shields.io/badge/%20-Computer%20Science-9cf)
 ![Software Engineering](https://img.shields.io/badge/%20-Software%20Engineering-9cf)
@@ -6,11 +26,12 @@
 #### Major Skills:
 ![Software Development](https://img.shields.io/badge/%20-Software%20Development-green)
 ![Software Testing](https://img.shields.io/badge/%20-Software%20Testing-green)
-![Cloud Development](https://img.shields.io/badge/%20-Cloud%20Development-green)
+![Continuous Integration and Delivery](https://img.shields.io/badge/%20-Continuous%20Integration%20and%20Delivery-green)
 
 #### Software Development:
 ![Full stack Development](https://img.shields.io/badge/%20-Full%20stack%20Development-gold)
 ![Database Management](https://img.shields.io/badge/%20-Database%20Management-gold)
+![Cloud Development](https://img.shields.io/badge/%20-Cloud%20Development-gold)
 
 #### Software Testing:
 ![Software Quality Control](https://img.shields.io/badge/%20-Software%20Quality%20Control-steelblue)
@@ -18,21 +39,8 @@
 ![Technical Testing](https://img.shields.io/badge/%20-Technical%20Testing-steelblue)
 ![Test Automation](https://img.shields.io/badge/%20-Test%20Automation-steelblue)
 
-#### Cloud Development:
-![Continuous Integration and Delivery](https://img.shields.io/badge/%20-Continuous%20Integration%20and%20Delivery-lightblue)
-![Containerization and Orchestration](https://img.shields.io/badge/%20-Containerization%20and%20Orchestration-lightblue)
-
-<!--
-**mwahab25/mwahab25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Continuous Integration and Delivery:
+![Continuous Integration](https://img.shields.io/badge/%20-Continuous%20Integration-lightblue)
+![Continuous Delivery and Deployment](https://img.shields.io/badge/%20-Continuous%20Delivery%20and%20Deployment-lightblue)
+![Continuous Testing](https://img.shields.io/badge/%20-Continuous%20Testing-lightblue)
 -->

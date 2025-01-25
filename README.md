@@ -1,6 +1,6 @@
 ### Mohamed Abdelwahab 👋
 
-- 📚 Study: Computer Science, Software Engineering
+- 📚 Study: Mathematics, Physics, Computer Science, Software Engineering
 - 💻 Major Skills: Software Development, Software Quality Engineering.
 - 📟 Software Development: Full stack Development, Database Management, Cloud Development
 - 📈 Software Quality Engineering: Software Testing and Quality Control, White-Box Testing, Non-Functional Testing, Test Automation, Continuous Integration and Delivery (CI/CD)

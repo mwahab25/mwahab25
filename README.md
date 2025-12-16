@@ -2,8 +2,8 @@
 
 - 📚 Study: Mathematics, Physics, Computer Science, Software Engineering
 - 💻 Major Skills: Software Development, Software Quality Engineering.
-- 📟 Software Development: Full stack Development, Database Management, Cloud Development
-- 📈 Software Quality Engineering: Business Domain Testing, Technical Testing
+- 📟 Software Development: Full stack Development, Database Management.
+- 📈 Software Quality Engineering: Business Domain Testing, Technical Testing.
 
 <!--
 **mwahab25/mwahab25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
